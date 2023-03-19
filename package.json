@@ -1,0 +1,11 @@
+{
+  "name": "wizard",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "author": "paulcristian",
+  "license": "MIT",
+  "dependencies": {
+    "@react-spring/web": "^9.7.1"
+  }
+}
